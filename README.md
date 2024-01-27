@@ -1,4 +1,4 @@
-*The management system should have the following features: -
+The management system should have the following features: -
 
 Add a patient’s details to the system whenever there is a new patient admitted.
 The patient details should include his/her name, age, gender, Aadhar Card number, contact number, city, address, date of admission,
@@ -23,7 +23,3 @@ Mark the patient recovered when he starts working fine.
 
 The system should be able to delete the information of a patient when asked to.
 Handle NullPointerException if user entered patient id is not present in list.
-
-
-Implement these features using efficient data structures, collections  and OOP concepts learnt in the Java Foundation course.
-Write clean and organized codes using proper objects and methods.*/
